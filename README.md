@@ -32,6 +32,7 @@ Any comments, suggestions? [Let us know!](https://github.com/wpmetabox/awesome-m
 - [TemplatesNext ToolKit](https://wordpress.org/plugins/templatesnext-toolkit/) - Free: Essential addons for SiteOrigin or Elementor page builder.
 - [uSchema](https://uschema.io) - Premium: Structured data for WordPress.
 - [WPGraphQL-MetaBox](https://github.com/hsimah/wp-graphql-metabox/): WPGraphQL provider for Meta Box.
+- [WPGraphQL Provider for MB Relationships](https://github.com/hsimah/wp-graphql-mb-relationships)
 - [WP Contact Slider](https://wordpress.org/plugins/wp-contact-slider/) - Freemium: Simple contact slider to display Contactform7, Gravity forms, Ninja Forms, Wp Forms, Caldera forms, Constant Contact Forms or display random text or HTML.
 - [WP-Property](https://wordpress.org/plugins/wp-property/) - Free: WordPress powered real estate and property management.
 
